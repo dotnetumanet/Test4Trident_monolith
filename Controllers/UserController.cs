@@ -5,7 +5,6 @@ namespace Test4Trident_monolith.Controllers;
 
 public class UserController
 {
-    public Dictionary<long, string> UserStates;
     public UserDto UserDto;
 
     public bool IsLoggedIn
@@ -24,7 +23,6 @@ public class UserController
     public UserController()
     {
         UserDto = new UserDto();
-        UserStates = new Dictionary<long, string>();
     }
 
     public async Task<string> WriteScript(string messageText) //writes script to script.php file
