@@ -1,0 +1,4 @@
+2025-02-24 11:38:15.947 +02:00 [INF] Global logger is online
+2025-02-24 11:40:16.151 +02:00 [INF] Global logger is online
+2025-02-24 11:40:17.463 +02:00 [INF] App is online
+2025-02-24 11:40:35.035 +02:00 [INF] Global logger is online
